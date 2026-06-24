@@ -1,0 +1,29 @@
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\bin\Debug\net10.0\RideSharing.exe
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\bin\Debug\net10.0\RideSharing.deps.json
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\bin\Debug\net10.0\RideSharing.runtimeconfig.json
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\bin\Debug\net10.0\RideSharing.dll
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\bin\Debug\net10.0\RideSharing.pdb
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\RideSharing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\RideSharing.AssemblyInfoInputs.cache
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\RideSharing.AssemblyInfo.cs
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\RideSharing.csproj.CoreCompileInputs.cache
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\RideSharing.dll
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\refint\RideSharing.dll
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\RideSharing.pdb
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\RideSharing.genruntimeconfig.cache
+C:\Users\akovi\OneDrive\Desktop\RideSharingSystem\obj\Debug\net10.0\ref\RideSharing.dll
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\bin\Debug\net10.0\RideSharing.exe
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\bin\Debug\net10.0\RideSharing.deps.json
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\bin\Debug\net10.0\RideSharing.runtimeconfig.json
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\bin\Debug\net10.0\RideSharing.dll
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\bin\Debug\net10.0\RideSharing.pdb
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\RideSharing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\RideSharing.AssemblyInfoInputs.cache
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\RideSharing.AssemblyInfo.cs
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\RideSharing.csproj.CoreCompileInputs.cache
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\RideSharing.sourcelink.json
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\RideSharing.dll
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\refint\RideSharing.dll
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\RideSharing.pdb
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\RideSharing.genruntimeconfig.cache
+D:\Study Zone\Astha IT CodeCamp\01 ServerCamp Course\Session 7.5 OOP Assignment Ride Sharing System\RideSharingSystem\obj\Debug\net10.0\ref\RideSharing.dll
